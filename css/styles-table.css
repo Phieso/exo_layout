@@ -1,0 +1,47 @@
+
+* {
+	-webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+header {
+	background-color: #EBDEDD;
+	border: 1px solid #7D160E;
+	padding-left: 20px;
+}
+
+h2, p {
+	padding-left: 20px;
+}
+
+
+nav {
+	background-color: #EEEEDF;
+	border: 1px solid #888729;
+	margin: 10px 10px 10px 0px;
+	
+}
+
+article {
+	background-color: #E0EDDE;
+	border: 1px solid #3C8525;
+	margin: 10px 0px 10px 0px;
+	
+	
+	
+}
+
+aside {
+	background-color: #E0EEEE;
+	border: 1px solid #3B8687;
+	margin: 10px 0px 10px 10px;
+	
+}
+
+footer {
+	background-color: #DDDDED;
+	border: 1px solid #000A82;
+	clear: both;
+}
+
